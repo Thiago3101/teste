@@ -11,6 +11,8 @@ namespace Teste_commit
         {
             label1.Text = "label1";
             label1.Text = "label1";
+            //texto skskskskskkksksksksksksk
+            //coringuei
         }
     }
 }
